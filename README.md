@@ -24,7 +24,6 @@ Ollama-Chatbot/
 ├── chatbot.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ## Prerequisites
